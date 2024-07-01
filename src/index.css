@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.scrollBar {
+    scrollbar-width: thin;
+    scrollbar-color: lightblue transparent; /* thumb color and track color */
+    scroll-behavior: smooth;
+}
+
+.tableHeight{
+    height: calc(100vh - 26rem);
+}

@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "taskname": "Clean the kitchen",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "taskname": "Write a blog post about JavaScript tips",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "taskname": "Plan the weekend trip",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "taskname": "Read the next chapter of the book",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "taskname": "Water the plants",
+      "completed": true
+    },
+    {
+      "id": "6",
+      "taskname": "Organize the desk drawer",
+      "completed": true
+    },
+    {
+      "id": "7",
+      "taskname": "Send follow-up emails",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "taskname": "Exercise for 30 minutes",
+      "completed": true
+    },
+    {
+      "id": "9",
+      "taskname": "Buy groceries for the week",
+      "completed": false
+    },
+    {
+      "id": "10",
+      "taskname": "Update the resume",
+      "completed": true
+    },
+    {
+      "id": "11",
+      "taskname": "Research the latest tech trends",
+      "completed": true
+    },
+    {
+      "id": "12",
+      "taskname": "Schedule a doctor's appointment",
+      "completed": false
+    },
+    {
+      "id": "13",
+      "taskname": "Prepare a presentation for the meeting",
+      "completed": false
+    },
+    {
+      "id": "14",
+      "taskname": "Fix the leaky faucet",
+      "completed": true
+    },
+    {
+      "id": "15",
+      "taskname": "Backup important files",
+      "completed": true
+    },
+    {
+      "id": "f7ac",
+      "taskname": "abcxyz",
+      "completed": true
+    }
+  ]
+}
